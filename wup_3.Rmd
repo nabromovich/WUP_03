@@ -47,6 +47,11 @@ The data shows that the back row drink the most at 8.5 drinks a week while the f
 
 
 ## Inferential Tests
+```{r}
+model1 <- aov(alcohol~Seat,data=davisdata)
+summary.aov(model1)
+```
+The p value shows the chances of getting a result that we obtained if the null hypothesis is true.  Since the result is so small I am rejecting the null hypothesis. 
 
 ## Conclusions
 
