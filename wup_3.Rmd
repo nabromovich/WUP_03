@@ -61,5 +61,5 @@ This shows that the the middle back and front back has differences while the mid
 
 
 ## Conclusions
-
+In conclusion we found out that there were three different categories so a one way Anova had to be run.  This showed that two of the rows are the same while the back row was different.  That data shows that the drunks occupy the back row in the room. 
 
